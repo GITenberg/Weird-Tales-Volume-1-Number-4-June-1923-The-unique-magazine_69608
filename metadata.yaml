@@ -1,0 +1,36 @@
+_repo: Weird-Tales-Volume-1-Number-4-June-1923-The-unique-magazine_69608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Baird, Edwin
+    birthdate: 1886
+    deathdate: 1957
+    gutenberg_agent_id: '55025'
+    url: http://www.gutenberg.org/2009/agents/55025
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Baird
+description: ''
+gutenberg_issued: '2022-12-22'
+identifiers:
+  gutenberg: '69608'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV01n04192306
+pgterms:marc905: 20210102042336baird
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Rural Publishing Corporation,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Weird Tales, Volume 1, Number 4, June, 1923: The unique magazine'
+url: http://www.gutenberg.org/ebooks/69608
